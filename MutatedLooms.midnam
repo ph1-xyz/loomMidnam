@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MIDINameDocument PUBLIC "-//MIDI Manufacturers Association//DTD MIDINameDocument 1.0//EN" "http://www.midi.org/dtds/MIDINameDocument10.dtd">
+<MIDINameDocument>
+  <Author>fillotassi</Author>
+  <MasterDeviceNames>
+    <Manufacturer>Mutable Instruments</Manufacturer>
+    <Model>Yarns</Model>
+    <CustomDeviceMode Name="Loom">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="General MIDI Voices"/>
+        <ChannelNameSetAssign Channel="2" NameSet="General MIDI Voices"/>
+        <ChannelNameSetAssign Channel="3" NameSet="General MIDI Voices"/>
+        <ChannelNameSetAssign Channel="4" NameSet="General MIDI Voices"/>
+        <ChannelNameSetAssign Channel="5" NameSet="General MIDI Voices"/>
+        <ChannelNameSetAssign Channel="6" NameSet="General MIDI Voices"/>
+        <ChannelNameSetAssign Channel="7" NameSet="General MIDI Voices"/>
+        <ChannelNameSetAssign Channel="8" NameSet="General MIDI Voices"/>
+        <ChannelNameSetAssign Channel="9" NameSet="General MIDI Voices"/>
+        <ChannelNameSetAssign Channel="10" NameSet="General MIDI Drums"/>
+        <ChannelNameSetAssign Channel="11" NameSet="General MIDI Voices"/>
+        <ChannelNameSetAssign Channel="12" NameSet="General MIDI Voices"/>
+        <ChannelNameSetAssign Channel="13" NameSet="Remote Channel"/>
+        <ChannelNameSetAssign Channel="14" NameSet="General MIDI Voices"/>
+        <ChannelNameSetAssign Channel="15" NameSet="General MIDI Voices"/>
+        <ChannelNameSetAssign Channel="16" NameSet="General MIDI Voices"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ControlNameList Name="Controls">
+      <Control Type="7bit" Number="0" Name=""/>
+      <Control Type="7bit" Number="1" Name="Vibrato Depth"/>
+      <Control Type="7bit" Number="2" Name="Aux CV"/>
+      <Control Type="7bit" Number="3" Name=""/>
+      <Control Type="7bit" Number="4" Name="Aux CV"/>
+      <Control Type="7bit" Number="5" Name="Glide Time"/>
+      <Control Type="7bit" Number="6" Name=""/>
+      <Control Type="7bit" Number="7" Name=""/>
+      <Control Type="7bit" Number="8" Name=""/>
+      <Control Type="7bit" Number="9" Name=""/>
+      <Control Type="7bit" Number="10" Name=""/>
+      <Control Type="7bit" Number="11" Name=""/>
+      <Control Type="7bit" Number="12" Name=""/>
+      <Control Type="7bit" Number="13" Name=""/>
+      <Control Type="7bit" Number="14" Name=""/>
+      <Control Type="7bit" Number="15" Name=""/>
+      <Control Type="7bit" Number="16" Name="Lower Note"/>
+      <Control Type="7bit" Number="17" Name="Upper Note"/>
+      <Control Type="7bit" Number="18" Name="Voicing"/>
+      <Control Type="7bit" Number="19" Name="Note Priority"/>
+      <Control Type="7bit" Number="20" Name="Legato Mode"/>
+      <Control Type="7bit" Number="21" Name="Pitch Bend"/>
+      <Control Type="7bit" Number="22" Name="Vibrato Range"/>
+      <Control Type="7bit" Number="23" Name="LFO Rate (used in Vibrato, Tremolo, Timbre LFO)"/>
+      <Control Type="7bit" Number="24" Name="Transpose Semitones"/>
+      <Control Type="7bit" Number="25" Name="Fine Tuning"/>
+      <Control Type="7bit" Number="26" Name="Tuning Root"/>
+      <Control Type="7bit" Number="27" Name="Tuning System"/>
+      <Control Type="7bit" Number="28" Name="Trigger Duration"/>
+      <Control Type="7bit" Number="29" Name="Trigger Velocity Scales"/>
+      <Control Type="7bit" Number="30" Name="Trigger Shape"/>
+      <Control Type="7bit" Number="31" Name="Aux CV Out"/>
+      <Control Type="7bit" Number="32" Name=""/>
+      <Control Type="7bit" Number="33" Name=""/>
+      <Control Type="7bit" Number="34" Name=""/>
+      <Control Type="7bit" Number="35" Name=""/>
+      <Control Type="7bit" Number="36" Name=""/>
+      <Control Type="7bit" Number="37" Name=""/>
+      <Control Type="7bit" Number="38" Name=""/>
+      <Control Type="7bit" Number="39" Name=""/>
+      <Control Type="7bit" Number="40" Name=""/>
+      <Control Type="7bit" Number="41" Name=""/>
+      <Control Type="7bit" Number="42" Name=""/>
+      <Control Type="7bit" Number="43" Name=""/>
+      <Control Type="7bit" Number="44" Name=""/>
+      <Control Type="7bit" Number="45" Name=""/>
+      <Control Type="7bit" Number="46" Name=""/>
+      <Control Type="7bit" Number="47" Name=""/>
+      <Control Type="7bit" Number="48" Name=""/>
+      <Control Type="7bit" Number="49" Name=""/>
+      <Control Type="7bit" Number="50" Name=""/>
+      <Control Type="7bit" Number="51" Name=""/>
+      <Control Type="7bit" Number="52" Name=""/>
+      <Control Type="7bit" Number="53" Name=""/>
+      <Control Type="7bit" Number="54" Name=""/>
+      <Control Type="7bit" Number="55" Name=""/>
+      <Control Type="7bit" Number="56" Name=""/>
+      <Control Type="7bit" Number="57" Name=""/>
+      <Control Type="7bit" Number="58" Name=""/>
+      <Control Type="7bit" Number="59" Name=""/>
+      <Control Type="7bit" Number="60" Name=""/>
+      <Control Type="7bit" Number="61" Name=""/>
+      <Control Type="7bit" Number="62" Name=""/>
+      <Control Type="7bit" Number="63" Name=""/>
+      <Control Type="7bit" Number="64" Name=""/>
+      <Control Type="7bit" Number="65" Name=""/>
+      <Control Type="7bit" Number="66" Name=""/>
+      <Control Type="7bit" Number="67" Name=""/>
+      <Control Type="7bit" Number="68" Name=""/>
+      <Control Type="7bit" Number="69" Name=""/>
+      <Control Type="7bit" Number="70" Name="Oscillator Mode (Off, Drone, Enveloped)"/>
+      <Control Type="7bit" Number="71" Name="Oscillator Waveform"/>
+      <Control Type="7bit" Number="72" Name="Aux CV Out 2"/>
+      <Control Type="7bit" Number="73" Name="Input Transpose Octaves"/>
+      <Control Type="7bit" Number="74" Name="Hold Pedal Mode"/>
+      <Control Type="7bit" Number="75" Name="Sequencer Mode (Loop, Step)"/>
+      <Control Type="7bit" Number="76" Name="Sequencer Input Response"/>
+      <Control Type="7bit" Number="77" Name="Envelope Attack Time, Initial"/>
+      <Control Type="7bit" Number="78" Name="Envelope Sustain Level, Initial"/>
+      <Control Type="7bit" Number="79" Name="Envelope Decay Time, Initial"/>
+      <Control Type="7bit" Number="80" Name="Envelope Release Time, Initial"/>
+      <Control Type="7bit" Number="81" Name=""/>
+      <Control Type="7bit" Number="82" Name="Oscillator Timbre, Initial"/>
+      <Control Type="7bit" Number="83" Name="Oscillator TImbre, Unipolar Modulation by Bipolar LFO"/>
+      <Control Type="7bit" Number="84" Name="Loop Length (in Quarter Notes)"/>
+      <Control Type="7bit" Number="85" Name="Hold Pedal Polarity (Positive, Negative)"/>
+      <Control Type="7bit" Number="86" Name="Envelope Attack Time, Bipolar Modulation by Velocity"/>
+      <Control Type="7bit" Number="87" Name="Envelope Decay Time, Bipolar Modulation by Velocity"/>
+      <Control Type="7bit" Number="88" Name="Envelope Sustain Level, Bipolar Modulation by Velocity"/>
+      <Control Type="7bit" Number="89" Name="Envelope Release Time, Bipolar Modulation by Velocity"/>
+      <Control Type="7bit" Number="90" Name="Envelope Peak, Bipolar Scaling by Velocity"/>
+      <Control Type="7bit" Number="91" Name="Oscillator/Envelope Tremolo Depth"/>
+      <Control Type="7bit" Number="92" Name="Oscillator/Envelope Tremolo Shape"/>
+      <Control Type="7bit" Number="93" Name="Vibrato Shape"/>
+      <Control Type="7bit" Number="94" Name="Oscillator Timbre LFO Shape"/>
+      <Control Type="7bit" Number="95" Name=""/>
+      <Control Type="7bit" Number="96" Name=""/>
+      <Control Type="7bit" Number="97" Name=""/>
+      <Control Type="7bit" Number="98" Name=""/>
+      <Control Type="7bit" Number="99" Name=""/>
+      <Control Type="7bit" Number="100" Name=""/>
+      <Control Type="7bit" Number="101" Name=""/>
+      <Control Type="7bit" Number="102" Name="Clock Division (Arp/Seq)"/>
+      <Control Type="7bit" Number="103" Name="Gate Length (Arp/Seq)"/>
+      <Control Type="7bit" Number="104" Name="Arp Range"/>
+      <Control Type="7bit" Number="105" Name="Arp Direction"/>
+      <Control Type="7bit" Number="106" Name="Arp Pattern"/>
+      <Control Type="7bit" Number="107" Name="Euclidean Length"/>
+      <Control Type="7bit" Number="108" Name="Euclidean Fill"/>
+      <Control Type="7bit" Number="109" Name="Euclidean Rotate"/>
+      <Control Type="7bit" Number="110" Name="Sequencer Recording"/>
+        <Values Min="0" Max="127">
+          <ValueNameList>
+            <Value Number="1" Name="off"/>
+            <Value Number="65" Name="on"/>
+          </ValueNameList>
+        </Values>
+      <Control Type="7bit" Number="111" Name="Delete Sequencer Recording"/>
+      <Control Type="7bit" Number="112" Name="Record Tie / Looper Remove Oldest"/>
+      <Control Type="7bit" Number="113" Name="Record Rest / Looper Remove Newest"/>
+      <Control Type="7bit" Number="114" Name="Play Mode (Manual/Arpeggiator/Sequencer)"/>
+      <Control Type="7bit" Number="115" Name="Looper Phase Offset"/>
+      <Control Type="7bit" Number="116" Name="Macro Recording Mode"/>
+      <Control Type="7bit" Number="117" Name="Macro Play/Sequencer Mode"/>
+      <Control Type="7bit" Number="118" Name="LFO Spread Types"/>
+      <Control Type="7bit" Number="119" Name="LFO Spread Voices"/>
+      <Control Type="7bit" Number="120" Name=""/>
+      <Control Type="7bit" Number="121" Name=""/>
+      <Control Type="7bit" Number="122" Name=""/>
+      <Control Type="7bit" Number="123" Name=""/>
+      <Control Type="7bit" Number="124" Name=""/>
+      <Control Type="7bit" Number="125" Name=""/>
+      <Control Type="7bit" Number="126" Name=""/>
+      <Control Type="7bit" Number="127" Name=""/>
+    </ControlNameList>
+  </MasterDeviceNames>
+</MIDINameDocument>
